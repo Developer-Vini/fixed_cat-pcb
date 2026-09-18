@@ -1,0 +1,8 @@
+"Id";"Designador";"Footprint";"Quantidade";"Designação";"Fornecedor e referência";
+1;"BT2";"BatteryHolder_Keystone_3034_1x20mm";1;"Battery_Cell";;;
+2;"C2";"CP_Radial_D8.0mm_P5.00mm";1;"10uF";;;
+3;"D3, D4";"LED_D5.0mm";2;"LED";;;
+4;"M2";"PinHeader_1x02_P2.54mm_Vertical";1;"Motor_DC";;;
+5;"R4";"Potentiometer_Vishay_T73YP_Vertical";1;"Potentiometer";;;
+6;"R5, R6";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";2;"R";;;
+7;"SW3, SW4";"SW_PUSH_6mm";2;"SW_Push";;;

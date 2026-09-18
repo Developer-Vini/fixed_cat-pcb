@@ -1,0 +1,46 @@
+# KiCad
+*.kicad_pcb-cache
+*.kicad_sym_cache
+*.kicad_pro-cache
+*.kicad_pcb-backup
+*.kicad_sch-backup
+*.kicad_prl
+
+# KiCad lock files
+~*.kicad_*.lck
+
+# KiCad automatic history
+.history/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Manufacturing files (generated)
+*.gbr
+*.ger
+*.drl
+*.pos
+*.cmp
+*.gml
+*.gbo
+*.gbl
+*.gtl
+*.gto
+*.gts
+*.gbo
+*.gm1
+*.gpi
+*.gpt
+*.gbo
+*.dss
+*.rpt
+
+# FreeRouting files (auto-generated, do not track)
+*.rout
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
