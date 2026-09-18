@@ -18,6 +18,10 @@ A cat-themed PCB designed for the Hack Club Solder workshop. The board features 
 
 ## Visualizations
 
+
+### UPDATE PCB SKILLSCREEN
+![pcb](hardware/assets/update_skillscreen.png)
+
 ### Schematic
 
 ![Schematic](hardware/assets/schematic.png)
